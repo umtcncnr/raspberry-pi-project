@@ -1,5 +1,6 @@
-if u prefer to send mail as pdf-- just fill send_mail.py(mail address and password)
-if u prefer to send mail as text-- just fill send_mail_text.py
+to send mail as pdf-- just fill send_mail.py(mail address and password)
+to send mail as text-- just fill send_mail_text.py
+to push your sensor datas to mongodb run mongo.py(this also read sensor)-- to read datas from db run read_db-write_pdf.py
 
 cron schedule:
 open the terminal and type crontab -e	
